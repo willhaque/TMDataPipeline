@@ -1,0 +1,2 @@
+This is nano editor
+Backup copy
